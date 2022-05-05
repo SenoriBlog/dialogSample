@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogSample</string>
+    <string name="general_OK">OK</string>
+    <string name="general_cancel">キャンセル</string>
+</resources>
